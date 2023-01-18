@@ -1,0 +1,68 @@
+#################################################################
+#                                                               #
+# Phil Tanner public key file, v2.04.                           #
+# Download or compare latest version at:                        #
+# https://www.dropbox.com/s/8irloutn9vcpz59/authorized_keys.txt #
+#                                                               #
+#################################################################
+
+
+#################################################################
+#               Home Keys - phil@philtanner.com                 #
+#################################################################
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw9JK0XSoqdLekHHqiascL1/WNUBZxEFTfhDocN0+SzB9x1GwS50m31nWAFfC7AJaxrhvfUQL1gxvaXVMOsRLT1ysZzInJBTvULLit3nXERcfp1Ks5MARGY0AW3pIEF88IEnDadlilQXgx2JjcUiIyDY4mN9qitS8aZMY4nFWh9XcZ9bE4CCje8cXsDqaw9Y5Vs38OcIPS9dfaAzAo1Dmop/AaJNq2jr0H6BWWSk0aM0rZ4kRIycvwMch6/XyBAu3WmNlH6pZnWVA4zCXbYvDMm9qkGLvv+eTK+Yotwtj9OsUkPhLe/t3typECQgrQtW2TzFutBoPciuvQr2AkA+5l Phil.Tanner@sjs.co.nz Galaxy S2 Tablet
+
+ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAyMBCgTE3Q+gmVNnQ6jU+TYR0+tZpWF01OULPTmzEgDBiKyPngsqR26WQrGuBF/ViFwNSfgMYp2YjJFa3xTlNA9iZ8kGpPQy/TTgeJs/tF3+vKB/I/FYZ6RmjPhyYC5Mk6fxYVVm8JO1ReCXkJ7SDXXPi30EuuDybK35pjT/oSi/mnxsJWY0dEvRnHLAjZStU9PU/FyCIsaO374VCpDjqxPVqKrA0pYUm2x3+4nqG4qZI1j2FaM/IwMavWYiBAUNA6h3QAhDKBAeMOTQRzojWQpZVfKSS+9Koq3e6ELjQuLfvhXgtkFqqu22z4EMyOzASmqKrAm7pKJcTuuaRQvrQgQ== phil@ex-HITO
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDoisuFgy0SeuJ13nkpXEpl3eZ6VnfMwGj43XSjIXITHzKgsmXy4/73zCj4nO1iiE1oEM0DKXB5WdEDJTY3WL1HRQJkcoxk1OJqJ92nmh2AELFS7RS39IsIyzPOyNd0ghIF9PX7CY1bPxGDjmbzEv8pgp5z9k1Y2XCSaYp9CepfSvArOyZCs8DPcZCZ3MkLCMbYtAcjBkO4bPT5Bx0AsqHgUFnAdI+VebNTqMhMfCfFGtxHOzIs7wG9o3dK5N+sYZhMmrFFk97/zL8L0qqoZmE89ca+1DgVVc96qlxu7PyTezZtbcQnag9iO3xa1tERqCsoinUXC9/yB32DX5FuLBCN phil@Nemesis (Home machine)
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCWwn92ROvMevebF+6kt/7CSx6YMNvCWovJovhz2fMfxsYWwD2dCWDVTXAYzI/GVaJHDIsjEkytTFhqEr7ckSJNaqoaws1y2li/HWPAfmak89hu6o7xIYZDdmP8suumuF9VsYLubcxV9kn1ngDZ7ZKQxBEs2V2ksNdDrtOGM2jfsf14KBjtwWddzbYcIfK/6PZ7xedebzmv0dte1fVD2Gb2ZYJ1ozWNtiBlQ/h7D6PKc2yEKNyw8Y4cyuRIvZJ51XYL8t+RQbRqxQkVVFqfUPSIOrznKOMmCK5H6+UOFzz10P+0mVD8/IC6iGSUkEJ6WoAtYSCfD2vbYf3IpI54LMcP pi@philtanner.com
+
+
+#################################################################
+#          NZCF Keys - phil.tanner@cadetforces.org.nz           #
+#################################################################
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOw/8rbpaGHx555hsvuBJHxG2tKcq3sDfae7JFefcZ65QQLEEz8lC8wJlGXElGS/1Y4SNNEZpsGCVHHJPRDReL0uT1v0j/gcjL66s2oJ7GZAGhQY5OIxKawGd+jHEdvpV6b6/xfYgWnlVXcnRPMDwBPqwYcxelDKjTDWaloiJKZvP0i8El9xSCCChuIOwmf4n6r6/EMdXBcESB+wCmrlBv3e2TxWv6KbMtyyRlPjN8lOPFCV5hzMqK4sAGS3M8aSseTG0eRDEIQLvbz7zZfAl7+Z0yKRGo5coRbPNs+4O6vdxjTTEctSTfCNM3QmTmvprZ99TkdSfSurx9Hxlg9lq7 root@jira-server-3
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7w8ejaLuG11qD6rnB23w+6QoNN8HsX3VZn2FaUc3JeCEd4Hnzu+0JitCnL7t2d1Kgv5um7X36KpYTvOAfGk7E0rT//NtUPHnT/P+YMydwHrGKdcEOrpIWTJSkVq2cPS7HBnDKKdsLWz7bfNvnDHgHqPSY9Hc5pkfcXCnClM4H1F1gzNifYqF+NkN5eHHG5S/477CE+ZLm3QJusDNU4nWyxlLiOK1DI2oh3HFn0uXeO9K7aDz9zUwO61jujUwr+KqMhMomS2mcswmETCV+s9cIPZEdRC9eNkDXN9NPSDHXaWOsqZUkrKqeQFafsBI6t31506Ez8U/fb6ywp+9HUGSL phil@jira-server-3
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpteyTSmxvAbNOKz3wnAltcihQuXrGE/8Gv4vAouyrfQ9bNRrysLDzpolHP+Fj5F8+sIQQ3r0gr+QARMjRAWdCtOpgpzxJPhDYz7v2LXOQ6SiTljhFCH4/lCYtfWwMzMktgisOIoPN5nMYazHmray6/ZoNe2XGQU05T2H1Onu/Ircs6NfmD99jeaYgFjPGBPcDwYvgAEddWV7L4C/mjiM/MoPKWa/dvlyhxFBtuf9E3pn43TsnP8VJNgyTCQKyNw0HWxXTWH5Mbcq/zauhpNQihbcigzfnSEHbeydtv7fyVHAIDL phil_nzcf_admin@cadetnet.org.nz
+
+
+#################################################################
+#           Electra Keys - phil.tanner@electra.co.nz            #
+#################################################################
+ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEApBSGALKPhS31wdsDnSBSZ4e/O9bWsJOffgmGQthVUqkyWncURKundw6HMXwNU0ds3WbZAB0AvZx+w0Qzqdp6TEeR0DZkcYuQ8YGMXnPmNjh3abC2BdljpdDpLSTQxmcHWmdsgtZu2OuDeDgRmP5cfSG29faCVCRi+xUrYSO3zVeMLmMJBblLW732U/NNKT1ISplbjU8TMiTV5jKRe3fvBfVo/2EOUPuXYyS/11Kym6ZXJF+Hro1mt5XroMz16UEBPQBSy1cBsL/slt+xyie8g1H5mcGxXYfe2YtlTf21MODLWNxKcZyxHtBEQDSx8uer5MMLrgXWFFTDA29QgvHmaQ== phil.tanner@electra.co.nz - RDP server v2
+
+ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAgv0np7sDpEnx9iPW7Gf57ByuNcn7oxCR7tJA9+xaQeOP6X2J3uJGd9q5+klFp4AZI7s+KdItTpda0zTvwtZLiEUNWxJH/yvqA3gc7U4pLakX044IafZrWn4v4V/ma8X2zrAtizF+p1qOPBs9nQL9KlL+56ahawdkdKMsTxflTWp0u3o1zfY/aOT32IslDlVSOeqouuCwi7SsLvaiiWcZqac9l89NK/K/JcBUU0PO+glZYqdtWrpB2FjcshmwhNDwcNi/ckpSiocYXP9m9fk6XsOsSl5uGt8JbalH9+v8+VtY7Iz4D9oh/2KDGtAyp0J25LBeLGOYCRObtYMD4YpNCw== phil.tanner@electra.co.nz - EL-0354
+
+# Added in v2.04
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCgHuBmGoRH6oD6PROK1XpsxW8Kg5tN7fqGy9mVz8B1Q0biWRwHcwGsCvcOUCOxuuASGIghpLU3dQH0mm345bjKpcrAClUdkhXypCD4wwIZioXDY9nLiBx8iKNjD8rdYGrFIiJNStyY+nuwtKcqFAXZzeL2BC8ORl55XM7YNb2NXmPaA7cOXsDmrL0fxly/Ebo74S6g9P6BHWxJeSdxZYgRFvKSl00M9+0LgPaDVKFwKcJWmIWuRYJgwGqioLhU0czzXAAoGSSew7dbZt5crtnxHJL1tpa34L5SXbXSQiwL3GHV0II4k6nsJpPySC11S/HJZnsffNv4WkR1lvLAYXI9 Note 9, replacement
+
+# Removed in v2.04
+# ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAstfJ0RMG6sxrN1a6gzDgj/5YUvyzmN+IzOXI/fu3wmCJvgkGKvJp1l4KsYSXTcAHSDCRqXJeuN0/PS1oAnYl33yAJ3vpHjFph2P93KPkdvQ3xQh+evriFHClbkodc3FmDskPAztgFmtagfC8I+JdfJI8Dr9uGPLq96SkUsshXLPik2jvgKQSj/Opc2BmceOcIluT5ShdpJi64Di0KNFEtTa8Ke1T3vsbGoTR0rSQpgZBaRFm8QocO0RwEsIcjPlT3OTYfVFjkkIA3doWqkh4gGXpq7rk+ngO4ZLglykgpEdYg2/Lz6W6CLf8oxU4TKY39vmCeUv3gXIalpVeb8Yfhw== phil.tanner@electra.co.nz - EL-0338 v2
+# ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDwdlSS91cwmeOQcYf2ceIVtsWspIa7fniMO+s5w6NXJ4nmgylMQrLuHejkoHANxuMt6qSdGbukyfYvYDEEqdrT98ZxPGGxvB+bXCYLYxHb8AxTZEj+3sbb8b0D2eOhKJAGeBa7CSJBNj44IXYNl8htjeuwEgXsvSP/7fYJHFZhzqZW/wqj3F7FjI7mxHW+blIpxqu4ZSGWDor+0XlRhdbvpZGOFguHbU44kvzTTJdZdTAEe1vUCXVCgCl4Q5NHp7kJM0K30HMVtHw3UHzkhpwTZPHSOuoGj4A7ef+tbe2hgnucqij2dTqjmhmUrvAn9n7U7JnAUKnfRATDLBNKy4bz phil.tanner@electra.co.nz - Galaxy Note 9 v2
+
+
+#################################################################
+#                    Locations where used                       #
+#################################################################
+# Since 2.01
+# pi@philtanner.com
+# phil_nzcf_admin@cadetnet.org.nz
+# eladmins@standalone-vm
+# eladmins@EL-PUBNODEJS
+# eladmins@EL-PUBNODEJS-DEV
+# eladmins@ESB-Dev
+# eladmins@ESB-Prod
+# eladmins@EL-PUBHOST-DEV
+# eladmins@EL-PUBHOST
+# Since 2.02
+# eladmins@EL-AZ-SFTP
+# Since 2.04
+# phil@jira.cadetforces.org.nz
+
+
+#################################################################
+# End Phil Tanner public key file, v2.04                        #
+#################################################################
