@@ -1,6 +1,6 @@
 ###########################################################################
 #                                                                         #
-# Phil Tanner public key file, v3.1.1                                     #
+# Phil Tanner public key file, v3.2.1                                     #
 # Download or compare latest version at:                                  #
 # https://www.dropbox.com/s/8irloutn9vcpz59/authorized_keys.txt           #
 # https://github.com/PhilTanner/PublicKeys/blob/main/authorized_keys.txt  #
@@ -23,6 +23,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDwdlSS91cwmeOQcYf2ceIVtsWspIa7fniMO+s5w6NX
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXn88bAYOz1xa5NXckfjcXro1Se9Bp9iqyih1lqPm65gD7TCjOoeFyHGF1KVCTtYyINLpJJHUdlswEmGExk6cYFrpw3x2QihPHxT4gCbr1JozOWRf/2p2W7qJ8ihgrebSOMEno03R9CKDTbnNfV9xjrlwpABixMtQXFOXgmgGKZQOhtFBLC/SJJGWp/6dsF06NFrGDnQOXoPjtxERnjzGU5RK56LNKCrdRo2TjitZQcb7gCGN3mLDL/Q/j2PYoS3cBu6xOsGJmYf3FH5VyXafvaM7EQPww9eqWARB0RY2IYWeMuEimpbS5c0jdH0d+UDSx3/98vWBZ0534pxY0IoEf2RHm4hrhHmEV09m51Q0f683CxckSuUn/V9tkMGRj7Gl0piER3epuJJMLGZr94Xo8LeKs43qP3qWRWWIepmHfr0r2mkHSt+Sjrwz4iSXEcuUZ7vczxJrk4jYlQ03ZOE3tYeeJsZ6k/CcTQhGOfahkk2nukLiUpFYvKDQQvLDJWJs= phil@aether
 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINc1+YfrphLK9NBQB6Gmv68Ep70cntvvYqcrBilzfh2R phil@ex-HITO-ed25519
+
 ###########################################################################
 #              NZCF Keys - phil.tanner@cadetforces.org.nz                 #
 ###########################################################################
@@ -31,12 +33,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOw/8rbpaGHx555hsvuBJHxG2tKcq3sDfae7JFefcZ
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7w8ejaLuG11qD6rnB23w+6QoNN8HsX3VZn2FaUc3JeCEd4Hnzu+0JitCnL7t2d1Kgv5um7X36KpYTvOAfGk7E0rT//NtUPHnT/P+YMydwHrGKdcEOrpIWTJSkVq2cPS7HBnDKKdsLWz7bfNvnDHgHqPSY9Hc5pkfcXCnClM4H1F1gzNifYqF+NkN5eHHG5S/477CE+ZLm3QJusDNU4nWyxlLiOK1DI2oh3HFn0uXeO9K7aDz9zUwO61jujUwr+KqMhMomS2mcswmETCV+s9cIPZEdRC9eNkDXN9NPSDHXaWOsqZUkrKqeQFafsBI6t31506Ez8U/fb6ywp+9HUGSL phil@jira-server-3
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpteyTSmxvAbNOKz3wnAltcihQuXrGE/8Gv4vAouyrfQ9bNRrysLDzpolHP+Fj5F8+sIQQ3r0gr+QARMjRAWdCtOpgpzxJPhDYz7v2LXOQ6SiTljhFCH4/lCYtfWwMzMktgisOIoPN5nMYazHmray6/ZoNe2XGQU05T2H1Onu/Ircs6NfmD99jeaYgFjPGBPcDwYvgAEddWV7L4C/mjiM/MoPKWa/dvlyhxFBtuf9E3pn43TsnP8VJNgyTCQKyNw0HWxXTWH5Mbcq/zauhpNQihbcigzfnSEHbeydtv7fyVHAIDL phil_nzcf_admin@cadetnet.org.nz
-
-
-###########################################################################
-#                Electra Keys - phil.tanner@electra.co.nz                 #
-#                       All keys removed in v3.0.1                        #
-###########################################################################
 
 
 ###########################################################################
@@ -58,8 +54,10 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpte
 # phil@jira.cadetforces.org.nz
 # Since 3.1.1
 # phil@aether.philtanner.com
-
+# Since 3.2.1
+# GitHub
+# phil@ex-HITO-ed25519
 
 ###########################################################################
-# End Phil Tanner public key file, v3.1.1                                 #
+# End Phil Tanner public key file, v3.2.1                                 #
 ###########################################################################
