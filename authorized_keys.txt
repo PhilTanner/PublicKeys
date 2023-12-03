@@ -1,6 +1,6 @@
 ###########################################################################
 #                                                                         #
-# Phil Tanner public key file, v3.2.1                                     #
+# Phil Tanner public key file, v3.3.1                                     #
 # Download or compare latest version at:                                  #
 # https://www.dropbox.com/s/8irloutn9vcpz59/authorized_keys.txt           #
 # https://github.com/PhilTanner/PublicKeys/blob/main/authorized_keys.txt  #
@@ -23,7 +23,11 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDwdlSS91cwmeOQcYf2ceIVtsWspIa7fniMO+s5w6NX
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXn88bAYOz1xa5NXckfjcXro1Se9Bp9iqyih1lqPm65gD7TCjOoeFyHGF1KVCTtYyINLpJJHUdlswEmGExk6cYFrpw3x2QihPHxT4gCbr1JozOWRf/2p2W7qJ8ihgrebSOMEno03R9CKDTbnNfV9xjrlwpABixMtQXFOXgmgGKZQOhtFBLC/SJJGWp/6dsF06NFrGDnQOXoPjtxERnjzGU5RK56LNKCrdRo2TjitZQcb7gCGN3mLDL/Q/j2PYoS3cBu6xOsGJmYf3FH5VyXafvaM7EQPww9eqWARB0RY2IYWeMuEimpbS5c0jdH0d+UDSx3/98vWBZ0534pxY0IoEf2RHm4hrhHmEV09m51Q0f683CxckSuUn/V9tkMGRj7Gl0piER3epuJJMLGZr94Xo8LeKs43qP3qWRWWIepmHfr0r2mkHSt+Sjrwz4iSXEcuUZ7vczxJrk4jYlQ03ZOE3tYeeJsZ6k/CcTQhGOfahkk2nukLiUpFYvKDQQvLDJWJs= phil@aether
 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCDFtF9Q+Lw+vquDML5EtU4FMuWuf3EUiuK4vxTJd4BsId+wpoH38eWGiJmXAwv5xkpeu925cKx9mHqDveHV5nl0rDQgKmcqW0q/I0TKycQUBVIBlzBrknoK2dCPg6PcNVkOBn/IVRRT02m/tOucSkMLG9/xnhdrHPXvi7op8wivO2N7jKMGNAeICCbaU7SLUhz/mp4rVOvdWj9K9uDJwsQukHbR5tIVFhXWKXbnsbWJkvq4eh8BHSH3DWG4SoUccZIjunJB5b0Gp/MF58tgvsXveJIdKId0x/MoZQ0WgOdzXWcXi8axCF5CVxO6swQctKB9MmGknzEi4YIBL2rWOEz phil@Rorohiko
+
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINc1+YfrphLK9NBQB6Gmv68Ep70cntvvYqcrBilzfh2R phil@ex-HITO-ed25519
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDIndZxkvIDL8gEV80Yoxp9fmcK5QWsRkeH4JZF/OPvD phil@rorohiko
 
 ###########################################################################
 #              NZCF Keys - phil.tanner@cadetforces.org.nz                 #
@@ -59,5 +63,5 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpte
 # phil@ex-HITO-ed25519
 
 ###########################################################################
-# End Phil Tanner public key file, v3.2.1                                 #
+# End Phil Tanner public key file, v3.3.1                                 #
 ###########################################################################
