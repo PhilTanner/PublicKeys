@@ -1,6 +1,6 @@
 ###########################################################################
 #                                                                         #
-# Phil Tanner public key file, v3.4.2                                     #
+# Phil Tanner public key file, v3.4.3                                     #
 # Download or compare latest version at:                                  #
 # https://www.dropbox.com/s/8irloutn9vcpz59/authorized_keys.txt           #
 # https://github.com/PhilTanner/PublicKeys/blob/main/authorized_keys.txt  #
@@ -26,6 +26,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXn88bAYOz1xa5NXckfjcXro1Se9Bp9iqyih1lqPm6
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCDFtF9Q+Lw+vquDML5EtU4FMuWuf3EUiuK4vxTJd4BsId+wpoH38eWGiJmXAwv5xkpeu925cKx9mHqDveHV5nl0rDQgKmcqW0q/I0TKycQUBVIBlzBrknoK2dCPg6PcNVkOBn/IVRRT02m/tOucSkMLG9/xnhdrHPXvi7op8wivO2N7jKMGNAeICCbaU7SLUhz/mp4rVOvdWj9K9uDJwsQukHbR5tIVFhXWKXbnsbWJkvq4eh8BHSH3DWG4SoUccZIjunJB5b0Gp/MF58tgvsXveJIdKId0x/MoZQ0WgOdzXWcXi8axCF5CVxO6swQctKB9MmGknzEi4YIBL2rWOEz phil@Rorohiko
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCmBXyDVd4ocC5/3FhjALI7T6HdP3qnnlsbJAsiUE2S/kuhVmUqgN8dxEr5EZt4nS9cnzGwG9x5d1JHslxBThRANRkPZC9Q6DHJstTcrqnFt7utfUxqwWJ71ZQpaG9wlHwXmr4+ZdrxD/wio0b9VS5Ce8A4VvSeeEw0qTFPa1S09e6UfkDjDdia66vDLPJPxMDKwSUiN2+V3vhC3p+hp2qXQPP9sxRfFGAXvrJ4UugjjjjcHlHd2X7mlmxgLR08TmyoMsngCJ47VrIWi7guUbsFWNwYH5vZ9BSM6E3e+YEWHuCr6anNoH15Y4Af9fbGJ/7Hvth7/mRc+dB2Ncw+dNP3jbjufTUxPjpTSzHnh01gMd1nS6W2MQQbDzUEeTbNr+08hhxvl8D0G3bDdgEdeU6vAzu3/kk/5YAAY4RoZtmlN4ewYsXjHhvs9/sEw/YG5ReetRFJnQjuYNIm648eJWVFUOR17Q+vmXj60TbqAcGrmg70PQc0ThENTtQO5Kb0W6k= phil@te-waka-ki-waa-kaainga
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCsPf6bZx/1GDE3B6iMxtjpvvjcwOPyWJr0xhodABxn+/WlAZHiGQcU8DeURCXit1wavUUHRXq31sGxOJhFGgeKXUMDWp022BpYwT68tA/tNP0JMqZ4+Ms5PPKBqWr3gVuyTDRSV9i95fEYfXu3Zz3MrPsk5U2U3+BMrESpe8EpgVSOjutnWo3TbdSkfunBYXO8ImFYXDBUBPhBILlz66j7nOZIm49HwJh8+txgYcaWaSpWmySSLUty5m+RYgf9HIGts5WpccYEj0VOEYixGN1SzJZY3uyV8VYnPowNuc3Di+05/6EUulcnk58j65B1TAKpQgoDjl9bgUFiS0KQxNb2NIu5kZXeGoCb37yuZ9VxKUPhlgBC+b6V/a7HIhOa36e8lu3KQy67kZ3WHQgayLTNnBSda+r6q+LGJ3UQhbz+GNZlJKugtXcveugI4qw0Qrbb3QFNgqmCN9Yo6meDMDbJeCHjYig+HysQWg5/cG4BvYlBiG9U1FZXonNeLIyjr5U= phil@hine-takurua
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINc1+YfrphLK9NBQB6Gmv68Ep70cntvvYqcrBilzfh2R phil@ex-HITO-ed25519
 
@@ -65,7 +67,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpte
 # phil@ex-HITO-ed25519
 # Since 3.4.1
 # phil@te-waka-ki-waa-kaainga
+# Since 3.4.3
+# phil@hine-takurua
 
 ###########################################################################
-# End Phil Tanner public key file, v3.4.2                                 #
+# End Phil Tanner public key file, v3.4.3                                 #
 ###########################################################################
