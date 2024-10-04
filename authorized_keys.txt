@@ -1,6 +1,6 @@
 ###########################################################################
 #                                                                         #
-# Phil Tanner public key file, v3.4.3                                     #
+# Phil Tanner public key file, v3.5.0                                     #
 # Download or compare latest version at:                                  #
 # https://www.dropbox.com/s/8irloutn9vcpz59/authorized_keys.txt           #
 # https://github.com/PhilTanner/PublicKeys/blob/main/authorized_keys.txt  #
@@ -32,6 +32,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCsPf6bZx/1GDE3B6iMxtjpvvjcwOPyWJr0xhodABxn
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINc1+YfrphLK9NBQB6Gmv68Ep70cntvvYqcrBilzfh2R phil@ex-HITO-ed25519
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDIndZxkvIDL8gEV80Yoxp9fmcK5QWsRkeH4JZF/OPvD phil@rorohiko
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5cIhmsXpGCd94NX28FYq/DunuEt5xR2RWo2trRtzHsfNtP1JrD1lql5+MnFve/9BaILoWK1P9yOiCeFl4KK5tQo7w89zd6HrFpZwlm2t5ozRno6I4da8VQ0Agja7zwDsUZRMR7XZVZUhVY9iN/TsBGSRXDnyJi2qmjHxdF1h7ajGunA769KEkNUeV+1xPI/YvZAy9ixGxiIOEsw8gURch5iMyQdjMbrF0+rMNJt4vvuqSxXB6v9YhZOAWQgfOSRiw6R8NYyvpOrqsDZaRpYo0G6qnVdYwExsigyQXyERno1ZbfInPdbat1C6XLq6ZRL4d2PucRq2/tPAUueHvUdNX Galaxy Fold 6
+
 
 ###########################################################################
 #              NZCF Keys - phil.tanner@cadetforces.org.nz                 #
@@ -71,5 +74,5 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpte
 # phil@hine-takurua
 
 ###########################################################################
-# End Phil Tanner public key file, v3.4.3                                 #
+# End Phil Tanner public key file, v3.5.0                                 #
 ###########################################################################
