@@ -1,9 +1,10 @@
 ###########################################################################
 #                                                                         #
-# Phil Tanner public key file, v3.6.0                                     #
+# Phil Tanner public key file, v3.6.1                                     #
 # Download or compare latest version at:                                  #
-# https://www.dropbox.com/s/8irloutn9vcpz59/authorized_keys.txt           #
 # https://github.com/PhilTanner/PublicKeys/blob/main/authorized_keys.txt  #
+# Update local copy using the command:                                    #
+# wget -O ~/.ssh/authorized_keys https://raw.githubusercontent.com/PhilTanner/PublicKeys/refs/heads/main/authorized_keys.txt
 #                                                                         #
 ###########################################################################
 
