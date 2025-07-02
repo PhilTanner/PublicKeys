@@ -1,6 +1,6 @@
 ###########################################################################
 #                                                                         #
-# Phil Tanner public key file, v3.6.1                                     #
+# Phil Tanner public key file, v3.7.1                                     #
 # Download or compare latest version at:                                  #
 # https://github.com/PhilTanner/PublicKeys/blob/main/authorized_keys.txt  #
 # Update local copy using the command:                                    #
@@ -40,6 +40,10 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFdq5x1Fgx+H6kBD/dXHCjISNVsgEBqMzjGgevzJYnCU
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5cIhmsXpGCd94NX28FYq/DunuEt5xR2RWo2trRtzHsfNtP1JrD1lql5+MnFve/9BaILoWK1P9yOiCeFl4KK5tQo7w89zd6HrFpZwlm2t5ozRno6I4da8VQ0Agja7zwDsUZRMR7XZVZUhVY9iN/TsBGSRXDnyJi2qmjHxdF1h7ajGunA769KEkNUeV+1xPI/YvZAy9ixGxiIOEsw8gURch5iMyQdjMbrF0+rMNJt4vvuqSxXB6v9YhZOAWQgfOSRiw6R8NYyvpOrqsDZaRpYo0G6qnVdYwExsigyQXyERno1ZbfInPdbat1C6XLq6ZRL4d2PucRq2/tPAUueHvUdNX Galaxy Fold 6
 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCiDeV6O5kF1q7i0IpyYDxOEuRDdnC8Fp4L6jLFNdOJb8jqenJNEWoCr/TdEsaxa+eUadSlYTiUhPbg9gtlM+MDY1jbUwbv7HeQspaGeWO8jBaIAtrlB/WD/SgaWg2QTANraO8E8EueRazZ5D7heVip3e9COQ8Yv/2gi/JjBTeNPGwTYtXzbNuuhe70gayh1c3cGs2xAtlsCrZh0xRZGfnuzk/QFlNLBtrz0OgMkRfKgQxDgEgDArArrllbXidkOWpzf2Zngj2ESdNiRTkl+/3k56N/SsX6VvYB5d0PQQoC0KCmlBjvP0j+EUL1G1diDpGVo8Jc/Z4NlhJRcYcP54QGNkqNQ3sZNfNIXUjZ3a0r6oBdzSHUh3Ri+CJx9wWK9IGeLKmUMg8TSILIHvRxBeCQY5rV/qUF3WpnrniGHGS3tsNZRlIZxwhldXTkC145e7TzvzvSKx4RQQktFOHP3W+4PYw9kKrxQq8o1TYGXQQlOgwID6hCEyYmBPLdN5vK0v0= phil@tanerore
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIErKD8K1RktdyLd7Xj/Q9FLkmcrwFTw25WnCzjXuNdMm phil@hine-raumati
+
 
 ###########################################################################
 #              NZCF Keys - phil.tanner@cadetforces.org.nz                 #
@@ -77,7 +81,10 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpte
 # phil@te-waka-ki-waa-kaainga
 # Since 3.4.3
 # phil@hine-takurua
+# Since 3.7.1
+# phil@tanerore
+# phil@hine-raumati
 
 ###########################################################################
-# End Phil Tanner public key file, v3.6.0                                 #
+# End Phil Tanner public key file, v3.7.1                                 #
 ###########################################################################
