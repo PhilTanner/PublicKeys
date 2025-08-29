@@ -1,6 +1,6 @@
 ###########################################################################
 #                                                                         #
-# Phil Tanner public key file, v3.7.1                                     #
+# Phil Tanner public key file, v3.8.1                                     #
 # Download or compare latest version at:                                  #
 # https://github.com/PhilTanner/PublicKeys/blob/main/authorized_keys.txt  #
 # Update local copy using the command:                                    #
@@ -44,6 +44,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCiDeV6O5kF1q7i0IpyYDxOEuRDdnC8Fp4L6jLFNdOJ
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIErKD8K1RktdyLd7Xj/Q9FLkmcrwFTw25WnCzjXuNdMm phil@hine-raumati
 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPRP4XW8UPV4y4vPVWVWWw/UY1tx9jBA0CamNu9TALW0 phil@ruuaumoko
+
 
 ###########################################################################
 #              NZCF Keys - phil.tanner@cadetforces.org.nz                 #
@@ -84,7 +86,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpte
 # Since 3.7.1
 # phil@tanerore
 # phil@hine-raumati
+# Since 3.8.1
+# phil@ruuaumoko
 
 ###########################################################################
-# End Phil Tanner public key file, v3.7.1                                 #
+# End Phil Tanner public key file, v3.8.1                                 #
 ###########################################################################
