@@ -44,7 +44,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCiDeV6O5kF1q7i0IpyYDxOEuRDdnC8Fp4L6jLFNdOJ
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIErKD8K1RktdyLd7Xj/Q9FLkmcrwFTw25WnCzjXuNdMm phil@hine-raumati
 
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPRP4XW8UPV4y4vPVWVWWw/UY1tx9jBA0CamNu9TALW0 phil@ruuaumoko
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFuu4B2PxIGvcSWDO/RmgWA36QasMG7WqbOK9APIc7f4 phil@ruuaumoko
 
 
 ###########################################################################
