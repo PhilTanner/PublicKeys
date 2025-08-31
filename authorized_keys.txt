@@ -1,6 +1,6 @@
 ###########################################################################
 #                                                                         #
-# Phil Tanner public key file, v3.8.1                                     #
+# Phil Tanner public key file, v3.8.2                                     #
 # Download or compare latest version at:                                  #
 # https://github.com/PhilTanner/PublicKeys/blob/main/authorized_keys.txt  #
 # Update local copy using the command:                                    #
@@ -90,5 +90,5 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCkZml/NVv/OVEiIUTq9xtdU9RAaTAgQwQvprmnpte
 # phil@ruuaumoko
 
 ###########################################################################
-# End Phil Tanner public key file, v3.8.1                                 #
+# End Phil Tanner public key file, v3.8.2                                 #
 ###########################################################################
